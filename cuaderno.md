@@ -3,7 +3,7 @@
 **Alumno/a:** Nombre y apellidos
  
 ## 1. Laboratorio
-- Crédito inicial:
+- Crédito inicial:50 €
 - Crédito final:
 
 `Comando consola`
@@ -18,7 +18,9 @@
 (aquí los comandos y sus salidas)
  
 ## 4. Comparación
-(tabla)
+| Col1 | Col2 |
+| --- | --- |
+| Sub1 | Sub2 | 
  
 ## 5. Reflexión
 (cinco líneas)
